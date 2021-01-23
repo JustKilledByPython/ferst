@@ -1,1 +1,1 @@
-print ('pice of code')
+print ('code')
